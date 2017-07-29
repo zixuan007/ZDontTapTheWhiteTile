@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZDontTapTheWhiteTile">
+    <output-path>$PROJECT_DIR$/Nukkit/plugins</output-path>
+    <root id="archive" name="ZDontTapTheWhiteTile.jar">
+      <element id="module-output" name="ZDontTapTheWhiteTile" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resource" />
+    </root>
+  </artifact>
+</component>
